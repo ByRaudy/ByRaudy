@@ -3,19 +3,6 @@
   <p style="font-size: 1.1rem; color: #333;">
     Hi there 👋, I'm <strong>Jannik H.</strong>, an 19-year-old application development trainee at a German company and a passionate Software Engineer. I have professional experience in Java, Kotlin, Swift, PHP, and SQL-based databases.
   </p>
-
-  <h2 style="color: #4CAF50; margin-top: 30px;">📫 Connect</h2>
-  <p>
-    You can reach out to me on the following platforms:
-  </p>
-  <ul style="list-style: none; padding-left: 0;">
-    <li style="margin: 10px 0;">
-      <a href="https://www.instagram.com/bozz.jannik/" style="text-decoration: none; color: #3f729b; font-weight: bold; display: flex; align-items: center;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="Instagram" width="25" style="margin-right: 10px;">
-        Instagram
-      </a>
-    </li>
-  </ul>
 <h2 style="color: #4CAF50; margin-top: 30px;">🎯 Current Interests & Learning Goals</h2>
 <ul style="padding-left: 20px;">
   <li>
